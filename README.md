@@ -1,2 +1,3 @@
 # HW2-Character-build
- In this commit, basic folder structure was added, and the codes of character build in the class were added.
+
+This is the repo for HW #2 Character build for MMED-1054-(01)-25W - Multimedia Authoring 1
